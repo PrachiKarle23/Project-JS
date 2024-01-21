@@ -1,0 +1,52 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  background-color: rgb(69, 69, 95);
+}
+
+.Calculator {
+  height: 400px;
+  width: 400px;
+  margin-top: 80px;
+}
+.display {
+  height: 60px;
+  width: 400px;
+
+  background-color: rgb(43, 43, 61);
+
+  color: white;
+  padding: 10px;
+}
+.numbers {
+  height: 320px;
+  width: 400px;
+  background-color: rgb(43, 43, 61);
+
+  padding-top: 10px;
+}
+.btngr {
+  display: flex;
+  justify-content: space-around;
+  background-color: rgb(43, 43, 61);
+}
+
+.bt {
+  width: 60px;
+  background-color: white;
+  border: 2px solid white;
+}
+.bt1 {
+  width: 160px;
+}
+#bt2 {
+  background-color: rgb(134, 134, 186);
+  color: white;
+}
+#bt3 {
+  background-color: rgb(134, 134, 186);
+  color: white;
+}
+#color {
+  color: white;
+}
